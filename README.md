@@ -1,5 +1,15 @@
 # FossFLOW - Isometric Diagramming Tool
 
+---
+
+## Credits
+
+Originally forked from `stan-smith/FossFLOW` (now unavailable, Jun 2026).  
+Built on the `fossflow` library by [Mark Mankarious](https://github.com/markmanx) — 
+the isometric rendering engine behind this project.
+
+---
+
 
 https://coff.ee/stan.smith - This will always be free, but here's how you can support development :)
 
